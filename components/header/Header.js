@@ -93,8 +93,8 @@ const Header = (props) => {
                       </Link>
                       <ul className="sub-menu">
                         <li>
-                          <Link onClick={ClickHandler} href="/shanti-vihar">
-                            Shanti Vihar
+                          <Link onClick={ClickHandler} href="/varanasi-projects">
+                            Varanasi
                           </Link>
                         </li>
                         <li>

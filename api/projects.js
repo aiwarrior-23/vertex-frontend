@@ -138,7 +138,7 @@ const Projects = [
     },
     {
         id: '2',
-        title: 'Art Museum In Dubai',
+        title: 'Shanti Vihar Phase 1',
         subtitle: 'Building, Apartment',
         slug: 'Art-Museum-In-Dubai',
         pimg: pimg2,

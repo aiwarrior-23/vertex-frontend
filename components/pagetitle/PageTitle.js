@@ -2,7 +2,7 @@ import React from 'react'
 
 const PageTitle = (props) => {
     return (
-        <section className="wpo-page-title">
+        <section className="wpo-page-title" style={{marginTop:  '-5%'}}>
             <div className="container">
                 <div className="row">
                     <div className="col col-xs-12">
